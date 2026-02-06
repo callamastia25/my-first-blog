@@ -7,12 +7,16 @@ __pycache__
 .env
 myvenv/
 venv/
+.venv
 
 # Database
 db.sqlite3
 
 # Static folder at project root
 /static/
+
+# IDE
+.idea
 
 # Visual Studio
 .vscode/
